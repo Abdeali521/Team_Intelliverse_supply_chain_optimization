@@ -1,1 +1,7 @@
-
+Location	     TransportationCost    	Delivery Time (hrs)	    Resources Used
+New York    	       1200	                  24	                    200
+Los Angeles  	       1500	                  36	                    250
+Chicago	             1000	                  18	                    180
+Houston     	       1100	                  22	                    210
+Phoenix	             1300	                  30	                    230
+  
